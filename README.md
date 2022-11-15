@@ -1,5 +1,4 @@
 # ideal-parakeet
-  # ideal-parakeet
   ## Description
   This application is a web text editor where the user can create notes or code snippets with or without the internet. The service worker and cache API's ensure that the application will remain fully functional offline. This application can be downloaded and accessed offline.
   ## License
